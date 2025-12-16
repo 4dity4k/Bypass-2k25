@@ -1,1 +1,1 @@
-# AMSI-Bypass-2025
+# Bypass-2025
